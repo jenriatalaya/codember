@@ -1,5 +1,3 @@
-**README.md**
-
 **Codember**
 
 **## Running with .NET 7**

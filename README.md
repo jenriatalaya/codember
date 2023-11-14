@@ -1,8 +1,8 @@
 **Codember**
 
-**## Running with .NET 7**
+**## Running with .NET 8**
 
-To run this project, you will need the .NET 7 SDK installed. You can download and install the .NET SDK from the Microsoft website: https://dotnet.microsoft.com/en-us/download.
+To run this project, you will need the .NET 8 SDK installed. You can download and install the .NET SDK from the Microsoft website: https://dotnet.microsoft.com/en-us/download.
 
 Once you have the .NET SDK installed, you can run the project by navigating to the project directory and typing the following command in a terminal or command prompt:
 
@@ -36,7 +36,7 @@ This will start the dotnet runtime and run the project.
 
 **## Documentation**
 
-For more information on the dotnet CLI and .NET 7, please see the following resources:
+For more information on the dotnet CLI and .NET 8, please see the following resources:
 
 * dotnet CLI documentation: https://learn.microsoft.com/en-us/dotnet/core/tools/
-* .NET 7 release notes: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7
+* .NET 8 release notes: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8
